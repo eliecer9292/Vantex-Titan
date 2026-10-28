@@ -1,9 +1,9 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "publishedAt": "2026-10-17T00:00:00Z",
-  "url": "https://github.com/eliecer9292/Vantex-Titan/releases/download/v1.5/v1.5.zip",
-  "sha256": "6ba05498dca10b8ccb6b60bc537ca89c85efc190b521304e7d8ecd698785bf62",
-  "notas": "**Notas de la última actualización: · v1.5**\n**Buff aim.** Sin apuntar y al apuntar quedan en una sola tarjeta, al lado del moldeado del stick.\n**Macros.** Con Todos encendido se resaltan. Apagado, quedan en gris y no se mueven.\n**Retroceso.** El manual y la zona muerta quedan a un lado, la iA al otro, y el retroceso por arma más estrecho.",
-  "aviso": "**Notas de la última actualización: · v1.5**\n**Buff aim.** Sin apuntar y al apuntar quedan en una sola tarjeta, al lado del moldeado del stick.\n**Macros.** Con Todos encendido se resaltan. Apagado, quedan en gris y no se mueven.\n**Retroceso.** El manual y la zona muerta quedan a un lado, la iA al otro, y el retroceso por arma más estrecho.",
+  "url": "https://github.com/eliecer9292/Vantex-Titan/releases/download/v1.6/v1.6.zip",
+  "sha256": "6CA9BD3A288889B3CABD47C7E1A85121E30D213E3918A89EF854815D52AD301B",
+  "notas": "**Notas de la última actualización: · v1.6**\n**Motores IA.** Se añadieron los modelos TITAN 320 y TITAN 640; elige el que mejor se adapte a tu rendimiento.\n**Ventana.** Minimizar ahora oculta la app en segundo plano y Cerrar finaliza el proceso por completo.\n**Rendimiento.** Corrección de bugs, optimización de código y mayor estabilidad general.\n**Ayuda.** Se incorporó el botón de acceso directo a tutoriales en el menú de ayuda.",
+  "aviso": "**Notas de la última actualización: · v1.6**\n**Motores IA.** Se añadieron los modelos TITAN 320 y TITAN 640; elige el que mejor se adapte a tu rendimiento.\n**Ventana.** Minimizar ahora oculta la app en segundo plano y Cerrar finaliza el proceso por completo.\n**Rendimiento.** Corrección de bugs, optimización de código y mayor estabilidad general.\n**Ayuda.** Se incorporó el botón de acceso directo a tutoriales en el menú de ayuda.",
   "history": []
 }
