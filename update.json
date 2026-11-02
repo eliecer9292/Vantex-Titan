@@ -1,9 +1,9 @@
 {
-  "version": "1.6",
-  "publishedAt": "2026-10-17T00:00:00Z",
-  "url": "https://github.com/eliecer9292/Vantex-Titan/releases/download/v1.6/v1.6.zip",
-  "sha256": "6CA9BD3A288889B3CABD47C7E1A85121E30D213E3918A89EF854815D52AD301B",
-  "notas": "**Notas de la última actualización: · v1.6**\n**Motores IA.** Se añadieron los modelos TITAN 320 y TITAN 640; elige el que mejor se adapte a tu rendimiento.\n**Ventana.** Minimizar ahora oculta la app en segundo plano y Cerrar finaliza el proceso por completo.\n**Rendimiento.** Corrección de bugs, optimización de código y mayor estabilidad general.\n**Ayuda.** Se incorporó el botón de acceso directo a tutoriales en el menú de ayuda.",
-  "aviso": "**Notas de la última actualización: · v1.6**\n**Motores IA.** Se añadieron los modelos TITAN 320 y TITAN 640; elige el que mejor se adapte a tu rendimiento.\n**Ventana.** Minimizar ahora oculta la app en segundo plano y Cerrar finaliza el proceso por completo.\n**Rendimiento.** Corrección de bugs, optimización de código y mayor estabilidad general.\n**Ayuda.** Se incorporó el botón de acceso directo a tutoriales en el menú de ayuda.",
+  "version": "1.7",
+  "publishedAt": "2026-11-02T00:00:00Z",
+  "url": "https://github.com/eliecer9292/Vantex-Titan/releases/download/v1.7/v1.7.zip",
+  "sha256": "50C2A94F29DCAB5F6F59E582313CF3743CEEC9644DDB302130EDE2A783810041",
+  "notas": "**Notas de la actualización · v1.7**\n**Aim IA.** Preconfigurado para **Call of Duty** con **TITAN 320**, modo **PRECISIÓN** y punto **PECHO**; mensajes más claros (*modelo listo · TITAN 320*).\n**Optimización GPU / sistema.** En **Ajustes** puedes **escanear tu PC** y **aplicar** recomendaciones para jugar más fluido y que la IA use mejor la GPU.\n**Estado.** La tarjeta **Aim IA** muestra **TITAN 320** y si va en **CPU** o **GPU**, sin textos confusos.",
+  "aviso": "**Nueva versión v1.7**\n**Aim IA** listo para CoD con **TITAN 320** y ajustes de fábrica más cómodos.\n**Ajustes:** nueva **optimización GPU / sistema** (escaneo y aplicar).\n**Estado:** información de Aim IA más clara.\nPulsa **Actualizar** para instalar.",
   "history": []
 }
